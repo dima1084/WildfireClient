@@ -8,7 +8,7 @@ Copyright (c) 2018 Wildfire Developers
 Where can I see the source code?
 -------------------------------
 
-https://github.com/Wildfire-Project/Wildfire/blob/master/README.md
+https://github.com/Wildfire-Project/Wildfire
 
 What is Wildfire?
 ----------------
