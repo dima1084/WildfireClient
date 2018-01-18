@@ -5,6 +5,11 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 Wildfire Developers
 
+Where can I see the source code?
+-------------------------------
+
+https://github.com/Wildfire-Project/Wildfire/blob/master/README.md
+
 What is Wildfire?
 ----------------
 
@@ -12,7 +17,7 @@ Wildfire is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 30 second block targets
  - subsidy halves in 4200000 blocks (~4 years)
  - 35 billion total coins
- - 4000 coins per block
+ - 5000 coins per block
  - 10 blocks to retarget difficulty
 
 The rest is the same as Bitcoin.
